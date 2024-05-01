@@ -1,3 +1,6 @@
 script.sh
 *main.py
 __pycache__
+dump.zip
+nginx.bson
+nginx.metadata.json
