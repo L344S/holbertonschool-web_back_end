@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""function that returns a tuple of size two containing a start index and an end index"""
+"""function that returns a tuple"""
 
 
 def index_range(page, page_size):
