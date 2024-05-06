@@ -1,5 +1,6 @@
 script.sh
 *main.py
+*main.js
 __pycache__
 dump.zip
 nginx.bson
